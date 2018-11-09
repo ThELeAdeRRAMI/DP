@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("507989504888406022")
+let channel =     client.channels.get("501346375141818381")
 setInterval(function() {
-channel.send(`salemsalemsalemsalemsalemsalemsalemsalemsalemsalemsalem`);
+channel.send(`i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits`);
 }, 30)
 })
 client.on("message", function(message) {
